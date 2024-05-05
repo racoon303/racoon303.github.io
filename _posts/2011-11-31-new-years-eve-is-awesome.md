@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-tag: classic hollywood
-category: classics, bhollywood
+tag: post firsttime
+#categories: [Tech, Personal]
+# categories: [Homelab , Docker] First Cat, SubCat
+category: "Welcome to Jekyll"
 ---
 
 # Welcome
