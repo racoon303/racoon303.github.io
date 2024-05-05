@@ -193,6 +193,8 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - webserver_local.sh
+  - .DS_Store
 
 jekyll-archives:
   enabled: [categories, tags]
