@@ -20,4 +20,4 @@ package-lock.json
 # Misc
 assets/js/dist
 .DS_Store
-webserver_local.sh
+local_server.sh
