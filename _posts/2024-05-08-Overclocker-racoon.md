@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Overclocking Mike "Racoon"
+title:  Overclocking Mike Racoon
 tags: Overclocking, World Records
 categories: Overclocking World Records #First Cat, SubCat
 #category: "Welcome to Jekyll"
