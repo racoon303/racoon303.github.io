@@ -14,9 +14,9 @@ timezone: Europe/Zurich
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Homelab Docs # the main title
+title: Mike Docs # the main title
 
-tagline: Homelab Nerd Cyber Security # it will display as the sub-title
+tagline: Homelab Nerd | Cyber Security | Mountaineer | Homebase 🇨🇭  # it will display as the sub-title
 
 #description: >- # used by seo meta and the atom feed
 #  A minimal, responsive and feature-rich Jekyll theme for technical writing.
