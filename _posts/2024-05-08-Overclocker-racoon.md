@@ -44,8 +44,8 @@ Invitation ROG Camp 2016 as mentor guide for newcomers
 [DDR4 Frequency World Record Live @ Computex](https://hwbot.org/submission/3230544_racoon_memory_clock_ddr4_sdram_2515.9_mhz) \
 ![Comments](assets/img/img/oc/react.png "Live")
 
-[3DMark Fire Strike Ultra World Records]() \
-[3Dmark Time Spy World Records]() \
+[3DMark Fire Strike Ultra World Records](https://hwbot.org/newsflash/4070_racoon_breaks_3dmark_fire_strike_ultra_and_3dmark_time_spy_world_records/) \
+[3Dmark Time Spy World Records](https://hwbot.org/newsflash/4070_racoon_breaks_3dmark_fire_strike_ultra_and_3dmark_time_spy_world_records/) \
 [World Record in the Catzilla 720P](https://hwbot.org/newsflash/4175_most_valuable_submission_of_week_51_2016_gold_for_racoon_(ch)_mr.db_(ir)_a39a_(gr)_and_walhalla_(de)/) \
 [Team MIFCOM Ocaholic Bench 3x GTX 1080s, Claim Catzilla 720p Global 1st Place](https://hwbot.org/newsflash/3910_team_mifcom_ocaholic_bench_3x_gtx_1080s_claim_catzilla_720p_global_1st_place/) \
 [NVIDIA TITAN X LN2 cooled Highest Frequency](https://se7en.ws/shveycarec-razognal-videokartu-titan-x-do-2619-m/) Russian Website Google Translate
