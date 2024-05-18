@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
+![header1](assets/img/web/titlepic.jpg "me")
 > Remember this website is in alpha phase posts will be updated over time. 
 {: .prompt-tip }
 
