@@ -15,8 +15,8 @@ An ASIC miner would have cost me around 1300 CHF + electricity costs, this was n
 
 ### Prototypes all sort of
 
-Durch das Overclocking hatte ich einige Motherboards/CPU/RAM/ Grafikkarten zum testen. Welche Kombination welche Grafikkarte ist die beste (Stromverbrauch Effizient Wärme entwicklung).
-Software/Betriebssystem war auch  ein wichtiger Punkt. Benchmarking war angesagt.
+Due to the overclocking I had several motherboards/CPU/RAM/graphics cards to test. Which combination of graphics card is the best (power consumption efficiency heat development).
+Software/operating system was also an important point. Benchmarking was the order of the day.
 
 ![Testing](assets/img/web/mining/benchmarking.jpg "Testing")
 ![Testing](assets/img/web/mining/benchmarking2.jpg "Testing")
@@ -29,7 +29,7 @@ Depending on the CPU, each mainboard could accommodate 4 GPUs.
 
 ![Testbuild](assets/img/web/mining/gotfans.jpg "Fans")
 Cooling was also provided. The prototypes looked good and in the meantime new hardware arrived.
-Mining mainboards and riser cards. However, it got too warm in the lab and we had to find a solution. Until the colleagues are ready.
+Mining mainboards and riser cards. However, it got too warm in the lab and we had to find a solution. Until the colleagues are ready. Until the colleagues are ready. Part of the system is moved to a basement, which is half an hour away. All systems set up, wired up, network set up, remote access done.
 ![Temp](assets/img/web/mining/temp2.jpg "Temp"){:width="25%"}
 The next day I was notified that a system was offline and no longer responding. Remote access offline VPN no message from the worker. Called colleague and informed them to unplug the system, wait 30 seconds and plug it in the systems were set up so that if the power fails, the system automatically starts if the power returns.
 ![Location2](assets/img/web/mining/testrigs.jpg "Location2"){:width="100%"}
@@ -46,4 +46,4 @@ Final pictures business partner colleagues.
 ![Rigs](assets/img/web/mining/rigs_friend.jpg "Rigs"){:width="50%"}
 
 Final pictures business partner colleagues
-All in all an exciting project. Learned a lot, met new colleagues, built business relationships. Would I build the whole thing again ? Yes, for customers who already have hardware or would like to buy more. I myself only sell the service (mining rig boxes remote access boxes and installation) and charge an X% of the generated turnover per month or year (passive income).    
+All in all an exciting project. Learned a lot, met new colleagues, built business relationships. Would I build the whole thing again ? Yes, for customers who already have hardware or would like to buy more. I myself only sold the service (mining rig boxes remote access boxes and installation) and charge an X% of the generated turnover per month or year (passive income).
