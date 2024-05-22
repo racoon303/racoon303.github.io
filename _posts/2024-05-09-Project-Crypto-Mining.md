@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Project Crypto Mining
+title:  Project Crypto Mining    ₿ ⛏️
 tags: Crypto, Mining
 categories: Crypto  #First Cat, SubCat
 
 ---
-# Project Mining
+# Project Mining    ₿ ⛏️
 
 ![Final Rigs](assets/img/web/mining/runningrig_final.jpg "Final")
 
