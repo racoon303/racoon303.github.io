@@ -17,3 +17,12 @@ Website Links and Descriptions:
 
 [Try Hack me](https://tryhackme.com/)
 
+# Setting UP My own Lab
+
+**Building the Cybersecurity Lab**
+
+Testing Docker Image WebGoat
+
+[OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+
+
