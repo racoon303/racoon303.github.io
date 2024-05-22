@@ -9,11 +9,11 @@ categories: Resources Hacking #First Cat, SubCat
 
 Website Links and Descriptions:
 
-Hack The Box:
+# Hack the Box:
 
-https://hackthebox.eu
+[Hack the Box](https://www.hackthebox.com//)
 
-Tryhackme:
+# Tryhackme:
 
-https://tryhackme.org
+[Try Hack me](https://tryhackme.com/)
 
